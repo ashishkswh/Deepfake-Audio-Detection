@@ -1,5 +1,4 @@
 # Deepfake-Audio-Detection
-# AuraShield: Deepfake Audio Detector
 
 AuraShield is a state-of-the-art machine learning system designed to classify speech recordings as **Genuine (Human)** or **Deepfake (AI-Generated)**. Built for **Problem Statement 2**, the system combines statistical signal processing features with deep spatial-temporal representation learning via a dual-model ensemble.
 
